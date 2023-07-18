@@ -1,6 +1,6 @@
 ## About the project
 
-A fun game showcasing some Java fundamentals.
+A simple implementation of the Hangman game showcasing some Java fundamentals.
 
 
 ## Screenshot
